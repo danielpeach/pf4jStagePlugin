@@ -1,4 +1,4 @@
-name: Test Workflow ${{ github.event.client_payload.uuid }}
+name: Test Workflow
 
 on:
   repository_dispatch:
